@@ -18,15 +18,12 @@ npx create-expo-app hello-world-expo-go --template blank
 ```bash
 npx expo start
 ```
-
-## Future Plans
-
-As I continue my learning journey, I plan to add more projects and explore different aspects of mobile app development, including:
-
-- Advanced React Native features
-- Integrating third-party libraries and native code
-- Performance optimization
-- State management (Redux, Context API, etc.)
-- Testing and deployment workflows
-
-Stay tuned as I expand this repository with more exciting technologies!
+**see java and node are processing**
+```bash
+pgrep -fl node
+pgrep -fl java
+```
+**kill the process**
+```bash
+kill -9 <process_id>
+```
