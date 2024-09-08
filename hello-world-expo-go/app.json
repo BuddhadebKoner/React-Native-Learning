@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "92ffec84-33d9-4adb-ac3a-7c6e3a87904e"
+      }
+    },
+    "owner": "buddhadeb"
   }
 }
