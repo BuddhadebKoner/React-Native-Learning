@@ -18,14 +18,15 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.buddhadeb.todo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "0e4f6e2a-1d06-4b5a-a5b8-e6c1f313e47f"
+        "projectId": "75e25edc-8a91-49bf-931d-5d359e8d0840"
       }
     },
     "owner": "buddhadeb"
