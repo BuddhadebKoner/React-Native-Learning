@@ -10,18 +10,7 @@ import {
   Linking,
 } from "react-native";
 import { IconButton } from 'react-native-paper';
-import Fallback from '../components/Fallback';
-
-// const dummyData = [{
-//   id: 1,
-//   title: 'First Todo',
-// }, {
-//   id: 2,
-//   title: 'Second Todo',
-// }, {
-//   id: 3,
-//   title: 'Third Todo',
-// }];
+import Fallback from '../components/Fallback.js';
 
 const TodoScreen = () => {
   // tod state

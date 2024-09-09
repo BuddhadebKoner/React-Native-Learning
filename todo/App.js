@@ -1,5 +1,5 @@
 import { SafeAreaView, StyleSheet, View } from 'react-native';
-import TodoScreen from './src/screen/TodoScreen';
+import TodoScreen from './screen/TodoScreen.js';
 
 export default function App() {
   return (

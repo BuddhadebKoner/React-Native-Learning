@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Todo",
+    "name": "todo",
     "slug": "todo",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -26,7 +26,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "75e25edc-8a91-49bf-931d-5d359e8d0840"
+        "projectId": "f87c1a9f-48ad-471c-b1a1-509232f154ce"
       }
     },
     "owner": "buddhadeb"
